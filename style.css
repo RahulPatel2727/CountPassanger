@@ -1,0 +1,45 @@
+*{
+    /* margin: 0px;
+    padding:0px; */
+}
+body{
+    background-color: rgb(7, 6, 3);
+    background-image: url('https://img.freepik.com/free-vector/train-subway-station-background-modern-metro-platform-public-transport-interior-underground-city-horizontal-cityscape-panorama-with-ad-banners_575670-1436.jpg?w=2000');
+    background-size: 700px 500px;
+    background-position-x: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 80px;
+    backdrop-filter: blur(3px);
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    /* display: inline-block; */
+    font-size: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(48, 72, 202);
+}
+h2{
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: rgb(218, 188, 21);
+}
+#increment{
+    background:green;
+    font-size: 30px;
+    border-radius: 12px;
+    height: 50px;
+    width: 200px;
+}
+#increment:hover{
+    background-color: rgb(88, 166, 166);
+    color:rgb(91, 15, 15);
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+}
